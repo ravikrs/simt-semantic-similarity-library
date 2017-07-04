@@ -1,4 +1,4 @@
-package de.rwth.i9.cimt.ss.lib.algorithm.similarity.wikipedia;
+package de.rwth.i9.simt.ss.lib.algorithm.similarity.wikipedia;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -8,8 +8,8 @@ import org.apache.commons.lang.exception.ExceptionUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import de.rwth.i9.cimt.ss.lib.util.ScoringUtil;
-import de.rwth.i9.cimt.ss.lib.util.ScoringUtil.ScoringStrategy;
+import de.rwth.i9.simt.ss.lib.util.ScoringUtil;
+import de.rwth.i9.simt.ss.lib.util.ScoringUtil.ScoringStrategy;
 import de.tudarmstadt.ukp.wikipedia.api.Wikipedia;
 import dkpro.similarity.algorithms.api.SimilarityException;
 import dkpro.similarity.algorithms.wikipedia.WikipediaBasedComparator;

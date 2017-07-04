@@ -1,4 +1,4 @@
-package de.rwth.i9.cimt.ss.lib.algorithm.similarity.vsm;
+package de.rwth.i9.simt.ss.lib.algorithm.similarity.vsm;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -9,10 +9,10 @@ import org.apache.commons.lang.exception.ExceptionUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import de.rwth.i9.cimt.ss.lib.algorithm.similarity.lsr.LuceneVectorReader;
-import de.rwth.i9.cimt.ss.lib.constants.SenseInventory;
-import de.rwth.i9.cimt.ss.lib.util.ScoringUtil;
-import de.rwth.i9.cimt.ss.lib.util.ScoringUtil.ScoringStrategy;
+import de.rwth.i9.simt.ss.lib.algorithm.similarity.lsr.LuceneVectorReader;
+import de.rwth.i9.simt.ss.lib.constants.SenseInventory;
+import de.rwth.i9.simt.ss.lib.util.ScoringUtil;
+import de.rwth.i9.simt.ss.lib.util.ScoringUtil.ScoringStrategy;
 import dkpro.similarity.algorithms.api.SimilarityException;
 import dkpro.similarity.algorithms.api.TermSimilarityMeasure;
 import dkpro.similarity.algorithms.vsm.InnerVectorProduct;

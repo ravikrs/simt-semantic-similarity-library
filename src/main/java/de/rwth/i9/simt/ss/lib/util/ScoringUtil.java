@@ -1,4 +1,4 @@
-package de.rwth.i9.cimt.ss.lib.util;
+package de.rwth.i9.simt.ss.lib.util;
 
 import java.util.List;
 

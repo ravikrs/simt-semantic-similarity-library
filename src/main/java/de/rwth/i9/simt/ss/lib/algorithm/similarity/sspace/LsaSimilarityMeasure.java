@@ -16,7 +16,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see http://www.gnu.org/licenses/.
  */
-package de.rwth.i9.cimt.ss.lib.algorithm.similarity.sspace;
+package de.rwth.i9.simt.ss.lib.algorithm.similarity.sspace;
 
 import java.io.File;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package de.rwth.i9.cimt.ss.lib.util;
+package de.rwth.i9.simt.ss.lib.util;
 
 import static org.apache.uima.fit.factory.AnalysisEngineFactory.createEngine;
 import static org.apache.uima.fit.factory.CollectionReaderFactory.createReader;

@@ -1,4 +1,4 @@
-package de.rwth.i9.cimt.ss.lib.algorithm.similarity.lsr;
+package de.rwth.i9.simt.ss.lib.algorithm.similarity.lsr;
 
 import java.io.FileInputStream;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package de.rwth.i9.cimt.ss.lib.constants;
+package de.rwth.i9.simt.ss.lib.constants;
 
 public enum SenseInventory {
 	WORDNET, WIKIPEDIA, WIKTIONARY;
